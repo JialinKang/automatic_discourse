@@ -1,4 +1,6 @@
-# __sign an an AWS account__
+# sign an an AWS account
+follow the link of [AWS](https://docs.aws.amazon.com/polly/latest/dg/setting-up.html#setting-up-signup)
+already created a AWS account
 # To create a Lambda function
 
 __Open the AWS Lambda console.__
